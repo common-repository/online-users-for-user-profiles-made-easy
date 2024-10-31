@@ -1,0 +1,56 @@
+.uoua-online {
+    background: #6dc51e none repeat scroll 0 0 !important;
+    border-radius: 20px !important;
+    display: inline-block !important;
+    height: 10px !important;
+    line-height: 15px !important;
+    margin-left: 10px !important;
+    width: 10px !important;
+}
+.uoua-offline{
+    background: #c20808 none repeat scroll 0 0 !important;
+    border-radius: 20px !important;
+    display: inline-block !important;
+    height: 10px !important;
+    line-height: 15px !important;
+    margin-left: 10px !important;
+    width: 10px !important;
+}
+
+.uoua-online-panel{
+    background: rgb(185, 249, 168) none repeat scroll 0 0 !important;
+    border: 1px solid rgb(16, 208, 40) !important;
+    border-radius: 15px !important;
+    display: inline-block !important;
+    font-weight: bold !important;
+    height: 25px !important;
+    margin-bottom: 10px !important;
+    margin-left: 10px !important;
+    padding: 3px !important;
+    position: relative !important;
+    top: 5px !important;
+    width: 100px !important;
+    box-sizing : border-box !important;
+}
+
+.uoua-offline-panel{
+    background: #ffa9ab none repeat scroll 0 0 !important;
+    border: 1px solid #f15a5a !important;
+    border-radius: 15px !important;
+    display: inline-block !important;
+    font-weight: bold !important;
+    height: 25px !important;
+    margin-bottom: 10px !important;
+    margin-left: 10px !important;
+    padding: 3px !important;
+    position: relative !important;
+    top: 5px !important;
+    width: 100px !important;
+box-sizing : border-box !important;
+}
+
+.uoua-online-text,.uoua-offline-text{
+    font-size: 13px !important;
+    position: relative !important;
+    top: -7px !important;
+}
